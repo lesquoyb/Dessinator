@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/ouvrir.png</file>
+        <file>resources/nouveau.png</file>
+        <file>resources/cercle.png</file>
+        <file>resources/triangle.png</file>
+        <file>resources/gomme.png</file>
+        <file>resources/trait.png</file>
+        <file>resources/moins.png</file>
+        <file>resources/plus.png</file>
+        <file>resources/annuler.png</file>
+        <file>resources/rectangle.png</file>
+        <file>resources/carre.png</file>
+        <file>resources/segment.png</file>
+        <file>resources/losange.png</file>
+        <file>resources/mise_a_jour.png</file>
+        <file>resources/toile.png</file>
+        <file>resources/icone_imprimer.png</file>
+        <file>resources/sauver.png</file>
+    </qresource>
+</RCC>
